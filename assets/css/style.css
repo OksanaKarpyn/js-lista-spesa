@@ -24,3 +24,6 @@ li {
     display: inline-block;
   
 }
+input:checked + span{
+    text-decoration: line-through;
+}
