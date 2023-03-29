@@ -5,7 +5,7 @@ let lista = document.querySelector('.lista-spesa');
 
 let btn = document.querySelector('.btn').addEventListener('click', function () {
 
-    while (i <= arrayLista.length) {
+    while (i <= arrayLista.length - 1) {
 
         let listUl = document.createElement('ul');
         listUl.classList.add('list-group');
