@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+.wrapper {}
+
+.container {
+
+    margin-top: 50px;
+    margin: auto;
+    width: 40%;
+}
+
+
+.title {}
+
+li {
+    display: inline-block;
+  
+}
